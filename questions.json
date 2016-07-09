@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "categorias": ["Historia", "Deportes", "Espectáculos", "Geografía", "Arte y Literatura", "Ciencias y Naturaleza"],
+  "categorias": ["Historia", "Deportes", "Espectáculos", "Geograf&iacute;a", "Arte y Literatura", "Ciencias y Naturaleza"],
   "preguntas": [
     {
       "categoria": "Historia",
